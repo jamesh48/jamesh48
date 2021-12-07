@@ -19,7 +19,7 @@
             <a href="https://github.com/jamesh48/PersonalWebsite">
               <img
                 align="left"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=jamesh48&repo=PersonalWebsite"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=jamesh48&repo=PersonalWebsite&theme=tokyonight"
               />
             </a>
           </span>
@@ -27,7 +27,7 @@
             <a href="https://github.com/jamesh48/Strava-Report-Generator">
               <img
                 align="right"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=jamesh48&repo=Strava-Report-Generator&show_owner=true"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=jamesh48&repo=Strava-Report-Generator&show_owner=true&theme=tokyonight"
               />
             </a>
         </span>
@@ -37,7 +37,7 @@
             <a href="https://github.com/jamesh48/2Sides_DiscordChatbot">
               <img
                 align="left"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=jamesh48&repo=2Sides_DiscordChatbot"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=jamesh48&repo=2Sides_DiscordChatbot&theme=tokyonight"
               />
             </a>
           </span>
@@ -45,7 +45,7 @@
             <a href="https://github.com/jamesh48/Mini-Games">
               <img
                 align="right"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=jamesh48&repo=Mini-Games&show_owner=true"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=jamesh48&repo=Mini-Games&show_owner=true&theme=tokyonight"
               />
             </a>
           </span>
