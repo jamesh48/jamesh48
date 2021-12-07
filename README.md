@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![jamesh48's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesh48&theme=dark&show_icons=true)
+
 <!--
 **jamesh48/jamesh48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
