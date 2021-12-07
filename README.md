@@ -17,8 +17,7 @@
       </ul>
       
       <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=jamesh48&theme=tokyonight&show_icons=true&count_private=true&hide=stars" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesh48&theme=tokyonight&layout=compact" />
+        Hello World
       </div>
    </div>    
   </body>
