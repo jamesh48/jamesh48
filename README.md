@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile!
 
 <p>
-  You've found <strong>James Hrivnak's</strong> Github Profile! I'm a fullstack engineer from Boulder, Colorado! Currently working full stack developer for United Airlines via Signature Consultants!
+  You've found <strong>James Hrivnak's</strong> Github Profile! I'm a fullstack engineer from Boulder, Colorado! Currently working for United Airlines via Signature Consultants!
 </p>
 
 ## Tech Stack
