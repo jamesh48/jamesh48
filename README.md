@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile!
 
 <p>
-  You've found <strong>James Hrivnak's</strong> Github Profile! I'm a fullstack engineer from Boulder, Colorado! Currently working as a <strong>SEIR</strong> for <strong>Hack Reactor's Remote Part Time (Pacific)</strong> program and looking for Full Time work.
+  You've found <strong>James Hrivnak's</strong> Github Profile! I'm a fullstack engineer from Boulder, Colorado! Currently working full stack developer for United Airlines via Signature Consultants!
 </p>
 
 ## Tech Stack
