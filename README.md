@@ -88,7 +88,7 @@
 </p>
  
  
-
+![Screenshot](2022contributions.png)
 
 ### Connect with me!
 
