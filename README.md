@@ -88,7 +88,8 @@
 </p>
  
  
-![Screenshot](2022contributions.png)
+ ### 2022 Contributions with United Airlines
+![2022 Contributions](2022contributions.png)
 
 ### Connect with me!
 
