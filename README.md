@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile!
 
 <p>
-  You've found <strong>James Hrivnak's</strong> Github Profile! I'm a fullstack engineer from Boulder, Colorado! Currently working for United Airlines via Signature Consultants!
+  You've found <strong>James Hrivnak's</strong> Github Profile! I'm a fullstack engineer from Boulder, Colorado!
 </p>
 
 ## Tech Stack
@@ -59,6 +59,8 @@
   <img alt="Auth0" src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge"/>
 
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/>
+
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" />
 </p>
 
 
@@ -66,6 +68,8 @@
 
 <p>
   <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=for-the-badge" />
   
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 
@@ -111,6 +115,10 @@
   <img alt="Github Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge" />
 
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <img alt="Elgato" src="https://img.shields.io/badge/Elgato-101010?logo=elgato&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge" />
   
   <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/>
   
