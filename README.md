@@ -21,6 +21,8 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
   <img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Yaml" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge" /> 
 </p>
 
 ### Front-End
