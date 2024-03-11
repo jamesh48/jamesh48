@@ -19,6 +19,8 @@
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
   
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Front-End
@@ -39,6 +41,14 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 
   <img alt="ChakraUI" src="https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" />
+
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Lodash" src="https://img.shields.io/badge/Lodash-3492FF?logo=lodash&logoColor=fff&style=for-the-badge" />
+
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Backend, Servers & Frameworks
@@ -61,6 +71,10 @@
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/>
 
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge" />
+
+  <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" />
 </p>
 
 
@@ -82,6 +96,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+
+  <img alt="Knex" src="https://img.shields.io/badge/Knex.js-D26B38?logo=knexdotjs&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Hosting
@@ -107,6 +123,8 @@
   <img alt="AWS EKS" src="https://img.shields.io/badge/Amazon%20EKS-F90?logo=amazoneks&logoColor=fff&style=for-the-badge" />
 
   <img alt="AWS IAM" src="https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C?logo=amazoniam&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge" />
 </p>
 
 
@@ -119,6 +137,8 @@
   <img alt="Elgato" src="https://img.shields.io/badge/Elgato-101010?logo=elgato&logoColor=fff&style=for-the-badge" />
 
   <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Fig" src="https://img.shields.io/badge/Fig-000?logo=fig&logoColor=fff&style=for-the-badge" />
   
   <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white"/>
   
@@ -131,6 +151,8 @@
   <img alt="esLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=for-the-badge" />
   
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
   
@@ -145,6 +167,18 @@
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge" />
 
   <img alt="Akamai" src="https://img.shields.io/badge/Akamai-0096D6?logo=akamai&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Jfrog" src="https://img.shields.io/badge/JFrog-40BE46?logo=jfrog&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Mapbox" src="https://img.shields.io/badge/Mapbox-000?logo=mapbox&logoColor=fff&style=for-the-badge"/>
+
+  <img alt="Nodemon" src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Documentation & Collaboration
@@ -153,6 +187,12 @@
   <img alt="Atlassian" src="https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=fff&style=for-the-badge" />
 
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Testing
@@ -164,11 +204,15 @@
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
   
   <img alt="React Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
+
+  <img alt="New Relic" src="https://img.shields.io/badge/New%20Relic-1CE783?logo=newrelic&logoColor=000&style=for-the-badge" />
 </p>
 
 ### Computers and OS
 <p>
-  <img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### APIs
