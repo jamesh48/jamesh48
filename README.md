@@ -75,6 +75,8 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
   <img alt="AWS Fargate" src="https://img.shields.io/badge/AWS%20Fargate-F90?logo=awsfargate&logoColor=fff&style=flat" />
+
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=for-the-badge" />
 </p>
 
 
