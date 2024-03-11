@@ -37,9 +37,11 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+
+  <img alt="ChakraUI" src="https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=fff&style=for-the-badge" />
 </p>
 
-### Servers & Frameworks
+### Backend, Servers & Frameworks
 
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=for-the-badge" />
@@ -48,7 +50,15 @@
   
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   
-  <img alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Auth0" src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=fff&style=for-the-badge"/>
+
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/>
 </p>
 
 
@@ -127,6 +137,12 @@
   <img alt="Akamai" src="https://img.shields.io/badge/Akamai-0096D6?logo=akamai&logoColor=fff&style=for-the-badge" />
 </p>
 
+### Documentation & Collaboration
+
+<p>
+  <img alt="Atlassian" src="https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=fff&style=for-the-badge" />
+</p>
+
 ### Testing
 <p>
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
@@ -138,7 +154,7 @@
 
 ### Computers and OS
 <p>
-  <imag alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=flat" />
+  <img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### APIs
