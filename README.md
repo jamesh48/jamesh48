@@ -166,6 +166,8 @@
 ### APIs
 <p>
   <img alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge"/>
 </p>
 
 ### Companies
