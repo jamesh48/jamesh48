@@ -90,7 +90,9 @@
 
   <img alt="AWS SQS" src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?logo=amazonsqs&logoColor=fff&style=for-the-badge" />
   
-  <img alt="AWS EKS" src="https://img.shields.io/badge/Amazon%20EKS-F90?logo=amazoneks&logoColor=fff&style=for-the-badge"/>
+  <img alt="AWS EKS" src="https://img.shields.io/badge/Amazon%20EKS-F90?logo=amazoneks&logoColor=fff&style=for-the-badge" />
+
+  <img alt="AWS IAM" src="https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C?logo=amazoniam&logoColor=fff&style=for-the-badge" />
 </p>
 
 
