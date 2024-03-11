@@ -74,11 +74,23 @@
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
+  <img alt="AWS ApiGateway" src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=fff&style=for-the-badge" />
+  
+  <img alt="AWS ECS" src="https://img.shields.io/badge/Amazon%20ECS-F90?logo=amazonecs&logoColor=fff&style=for-the-badge"/>
+
   <img alt="AWS Fargate" src="https://img.shields.io/badge/AWS%20Fargate-F90?logo=awsfargate&logoColor=fff&style=for-the-badge" />
 
   <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=for-the-badge" />
 
+  <img alt="AWS Route53" src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?logo=amazonroute53&logoColor=fff&style=for-the-badge" />
+  
   <img alt="AWS S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge"/>
+
+  <img alt="AWS EC2" src="https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=for-the-badge"/>
+
+  <img alt="AWS SQS" src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?logo=amazonsqs&logoColor=fff&style=for-the-badge" />
+  
+  <img alt="AWS EKS" src="https://img.shields.io/badge/Amazon%20EKS-F90?logo=amazoneks&logoColor=fff&style=for-the-badge"/>
 </p>
 
 
