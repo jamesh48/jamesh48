@@ -132,6 +132,11 @@
   <img alt="React Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 </p>
 
+### APIs
+<p>
+  <img alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=fff&style=for-the-badge" />
+</p>
+
 ### Companies
 <p>
   <img alt="United Airlines" src="https://img.shields.io/badge/United%20Airlines-024?logo=unitedairlines&logoColor=fff&style=for-the-badge" />
