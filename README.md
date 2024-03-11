@@ -119,6 +119,8 @@
   <img alt="DataDog" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"/>
 
   <img alt="Teamcity" src="https://img.shields.io/badge/TeamCity-000?logo=teamcity&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Apache Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Testing
