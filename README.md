@@ -136,6 +136,11 @@
   <img alt="React Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 </p>
 
+### Computers and OS
+<p>
+  <imag alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=flat" />
+</p>
+
 ### APIs
 <p>
   <img alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=fff&style=for-the-badge" />
