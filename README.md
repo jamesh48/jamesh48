@@ -192,11 +192,15 @@
 
   <img alt="pm2" src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=fff&style=for-the-badge" />
 
+  <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge" />
+
   <img alt="Rollup.js" src="https://img.shields.io/badge/rollup.js-EC4A3F?logo=rollupdotjs&logoColor=fff&style=for-the-badge" />
 
   <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=for-the-badge" />
 
   <img alt="ts-node" src="https://img.shields.io/badge/ts--node-3178C6?logo=tsnode&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge" />
   
 </p>
 
@@ -237,11 +241,7 @@
 
   <img alt="macOS" src="https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge" />
 
-  <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge" />
-
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
-
-  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### APIs
