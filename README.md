@@ -75,6 +75,8 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge" />
 
   <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" />
 </p>
 
 
@@ -100,7 +102,7 @@
   <img alt="Knex" src="https://img.shields.io/badge/Knex.js-D26B38?logo=knexdotjs&logoColor=fff&style=for-the-badge" />
 </p>
 
-### Hosting
+### Devops & Hosting
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
@@ -125,6 +127,12 @@
   <img alt="AWS IAM" src="https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C?logo=amazoniam&logoColor=fff&style=for-the-badge" />
 
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge" />
 </p>
 
 
@@ -168,8 +176,6 @@
 
   <img alt="Akamai" src="https://img.shields.io/badge/Akamai-0096D6?logo=akamai&logoColor=fff&style=for-the-badge" />
 
-  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=for-the-badge" />
-
   <img alt="Jfrog" src="https://img.shields.io/badge/JFrog-40BE46?logo=jfrog&logoColor=fff&style=for-the-badge" />
 
   <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge" />
@@ -179,6 +185,19 @@
   <img alt="Mapbox" src="https://img.shields.io/badge/Mapbox-000?logo=mapbox&logoColor=fff&style=for-the-badge"/>
 
   <img alt="Nodemon" src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=for-the-badge" />
+
+  <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge" />
+
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge" />
+
+  <img alt="pm2" src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Rollup.js" src="https://img.shields.io/badge/rollup.js-EC4A3F?logo=rollupdotjs&logoColor=fff&style=for-the-badge" />
+
+  <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff&style=for-the-badge" />
+
+  <img alt="ts-node" src="https://img.shields.io/badge/ts--node-3178C6?logo=tsnode&logoColor=fff&style=for-the-badge" />
+  
 </p>
 
 ### Documentation & Collaboration
@@ -193,6 +212,8 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" />
 
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Semver" src="https://img.shields.io/badge/SemVer-3F4551?logo=semver&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Testing
@@ -206,6 +227,8 @@
   <img alt="React Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 
   <img alt="New Relic" src="https://img.shields.io/badge/New%20Relic-1CE783?logo=newrelic&logoColor=000&style=for-the-badge" />
+
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Computers and OS
@@ -213,6 +236,12 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
 
   <img alt="macOS" src="https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### APIs
@@ -220,6 +249,8 @@
   <img alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=fff&style=for-the-badge" />
 
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge"/>
+
+  <img alt="Palantir" src="https://img.shields.io/badge/Palantir-101113?logo=palantir&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Companies
