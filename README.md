@@ -117,6 +117,8 @@
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
   
   <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
+
+  <img alt="Create React App" src="https://img.shields.io/badge/Create%20React%20App-09D3AC?logo=createreactapp&logoColor=fff&style=for-the-badge"/>
   
   <img alt="esLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   
@@ -141,10 +143,14 @@
 
 <p>
   <img alt="Atlassian" src="https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Testing
 <p>
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge" />
+  
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
