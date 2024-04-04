@@ -81,6 +81,8 @@
   <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" />
 
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" />
+
+  <img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" />
 </p>
 
 
