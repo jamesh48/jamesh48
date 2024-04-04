@@ -264,9 +264,6 @@
   <img alt="United Airlines" src="https://img.shields.io/badge/United%20Airlines-024?logo=unitedairlines&logoColor=fff&style=for-the-badge" />
 </p>
 
-### 2022 Contributions with United Airlines
-![2022 Contributions](2022contributionsunitedairlines.png)
-
 ### Connect with me!
 
 <p>
