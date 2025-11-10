@@ -207,6 +207,8 @@
   <img alt="ts-node" src="https://img.shields.io/badge/ts--node-3178C6?logo=tsnode&logoColor=fff&style=for-the-badge" />
 
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge" />
+
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge" />
   
 </p>
 
