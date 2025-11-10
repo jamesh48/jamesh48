@@ -51,6 +51,8 @@
   <img alt="Lodash" src="https://img.shields.io/badge/Lodash-3492FF?logo=lodash&logoColor=fff&style=for-the-badge" />
 
   <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" />
+
+  <img alt="React Hok Form" src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge" />
 </p>
 
 ### Backend, Servers & Frameworks
